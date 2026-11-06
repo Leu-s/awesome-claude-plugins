@@ -129,6 +129,7 @@ Claude Plugins are extensions that enhance Claude Code with custom slash command
 ### Agent Memory
 
 - [glen](https://github.com/Glen-Web-App/glen-claude-code-plugin) - Shared team memory for coding agents. Recalls past decisions on every turn and records what you build, so your whole team's agents work from one history. ([Website](https://tryglen.com))
+- [threadpage](https://github.com/ThreadPage/threadpage-companion) - Gives each Claude Code session its own @name in your ThreadPage project threads. With Pro it reads and adds notes there, and you can send it a request from any browser; the answer comes back as a note. On a free account it adds notes to your Inbox. ([Website](https://thread.page))
 
 ### Backend & Architecture
 
